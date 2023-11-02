@@ -1,6 +1,0 @@
-[submodule "marxw.me"]
-	path = marxw.me
-	url = git@github.com:marx-w/marxw.me.git
-[submodule "Projects/Fonts"]
-	path = Projects/Fonts
-	url = git@github.com:marx-w/Fonts.git
